@@ -1,7 +1,7 @@
 import React from 'react'
-import Business from './Business'
+import Business from './Business.tsx'
 
-const data = ['']
+const data = [{ id: 2, name: 'Baduzzis' }]
 
 function BusinessList() {
   return (
