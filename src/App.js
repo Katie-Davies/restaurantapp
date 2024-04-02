@@ -1,4 +1,4 @@
-import './App.css'
+import './Styles/App.css'
 
 import BusinessList from './BusinessList.tsx'
 import SearchBar from './SearchBar.tsx'
