@@ -1,0 +1,24 @@
+.search-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.search-form {
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.input {
+  margin-left: 10px;
+}
+
+.button {
+  margin-left: 10px;
+  background-color: goldenrod;
+  color: white;
+  border-radius: 10%;
+  padding-left: 5px;
+  padding-right: 5px;
+}

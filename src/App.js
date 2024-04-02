@@ -6,9 +6,10 @@ import SearchBar from './SearchBar.tsx'
 function App() {
   return (
     <div className="App">
-      <header></header>
-      <main>
+      <header className="App-header">
         <SearchBar />
+      </header>
+      <main>
         <BusinessList />
       </main>
     </div>
